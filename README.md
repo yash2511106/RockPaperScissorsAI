@@ -18,7 +18,7 @@ This is an AI-powered **Rock Paper Scissors** game built using **Google's Teacha
 
 ## 🚀 How to Run
 
-1. Open the [MIT Raise Playground](https://play.raisely.app) or [MIT Scratch 3.0](https://scratch.mit.edu).
+1. Open the [MIT Raise Playground](https://playground.raise.mit.edu/) 
 2. Upload the `.sb3` file.
 3. Allow camera access.
 4. Play the game using your hand gestures!
