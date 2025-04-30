@@ -14,7 +14,7 @@ This is an AI-powered **Rock Paper Scissors** game built using **Google's Teacha
 
 ## 📁 Files Included
 
-- `rock-paper-scissors.sb3` — The complete Scratch project file with AI integration.
+- `Rock_Paper_Scissors (1).sb3` — The complete Scratch project file with AI integration.
 
 ## 🚀 How to Run
 
